@@ -1,0 +1,92 @@
+ [
+    {
+        "id": 1,
+        "name": "Mindset Book",
+        "title": "Mindset",
+        "category": "Paid",
+        "price": 100,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 2,
+        "name": "Time Management Book",
+        "title": "Time Management",
+        "category": "Paid",
+        "price": 150,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 3,
+        "name": "Sports Book",
+        "title": "Sports",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 4,
+        "name": "Business Book",
+        "title": "Business",
+        "category": "Paid",
+        "price": 50,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 5,
+        "name": "Drama Book",
+        "title": "Drama",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 6,
+        "name": "Series Book",
+        "title": "Stories",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 7,
+        "name": "Novel Book",
+        "title": "Novel",
+        "category": "Free",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 8,
+        "name": "Science Book",
+        "title": "Science",
+        "category": "Paid",
+        "price": 80,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 9,
+        "name": "Love Book",
+        "title": "Love",
+        "category": "Paid",
+        "price": 0,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    },
+    {
+        "id": 10,
+        "name": "Story Book",
+        "title": "Story",
+        "category": "Free",
+        "price": 200,
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1727025181~exp=1727028781~hmac=d11073cac8cff97fdbe6a42538e68bd7bee4e51b5dcc98c8a72111f8d8195c5e&w=826"
+
+    }
+ ]
